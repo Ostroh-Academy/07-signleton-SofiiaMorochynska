@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\bin\Debug\net6.0\Lab_7_Morochynska.exe
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\bin\Debug\net6.0\Lab_7_Morochynska.deps.json
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\bin\Debug\net6.0\Lab_7_Morochynska.runtimeconfig.json
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\bin\Debug\net6.0\Lab_7_Morochynska.dll
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\bin\Debug\net6.0\Lab_7_Morochynska.pdb
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\obj\Debug\net6.0\Lab_7_Morochynska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\obj\Debug\net6.0\Lab_7_Morochynska.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\obj\Debug\net6.0\Lab_7_Morochynska.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\obj\Debug\net6.0\Lab_7_Morochynska.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\obj\Debug\net6.0\Lab_7_Morochynska.dll
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\obj\Debug\net6.0\refint\Lab_7_Morochynska.dll
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\obj\Debug\net6.0\Lab_7_Morochynska.pdb
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\obj\Debug\net6.0\Lab_7_Morochynska.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Lab_7_Morochynska\Lab_7_Morochynska\obj\Debug\net6.0\ref\Lab_7_Morochynska.dll
